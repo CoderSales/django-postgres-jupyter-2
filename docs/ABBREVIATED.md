@@ -22,3 +22,8 @@ app/views.py
 pip freeze
 
 pip install pandas
+
+--------------------------------
+Create and run jupyter notebook:
+--------------------------------
+jupyter notebook
