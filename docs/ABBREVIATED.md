@@ -20,3 +20,5 @@ IGNORE NEXT LINE NOT USED YET:
 app/views.py
 
 pip freeze
+
+pip install pandas
