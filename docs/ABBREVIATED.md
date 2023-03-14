@@ -27,3 +27,8 @@ pip install pandas
 Create and run jupyter notebook:
 --------------------------------
 jupyter notebook
+
+-------------
+Post tutorial
+-------------
+django-admin startapp app
