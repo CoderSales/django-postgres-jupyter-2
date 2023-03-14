@@ -13,4 +13,8 @@ project/settings.py INSTALLED_APPS 'Not_Specified'
 pip install jupyter
 -------------------
 
+
+------------------------------
+IGNORE NEXT LINE NOT USED YET:
+------------------------------
 app/views.py
