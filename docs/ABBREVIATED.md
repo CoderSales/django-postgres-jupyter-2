@@ -32,3 +32,16 @@ jupyter notebook
 Post tutorial
 -------------
 django-admin startapp app
+
+----------
+Note:
+----------
+
+When going to Reveal in Explorer
+Cmd
+and
+python manage.py runserver
+
+Ensure to activate .venv in cmd.exe first
+.venv\Scripts\activate
+-----------------------------------------
