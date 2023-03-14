@@ -18,3 +18,5 @@ pip install jupyter
 IGNORE NEXT LINE NOT USED YET:
 ------------------------------
 app/views.py
+
+pip freeze
