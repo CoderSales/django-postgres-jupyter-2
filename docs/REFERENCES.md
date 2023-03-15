@@ -2,6 +2,11 @@
 - [import MEDIA_ROOT](https://stackoverflow.com/questions/5517950/django-media-url-and-media-root)
 - [display all the images in a folder by using django](https://stackoverflow.com/questions/47809932/how-to-display-all-the-images-in-a-folder-by-using-django#:~:text=you%20can%20use%20file%20methods,your%20template%20using%20template%20tags.)
 
+- [PostgreSQL with Django // how to // tutorial](https://youtu.be/unFGJhIvHU4)
+- [PostgreSQL with Django // how to // tutorial](https://www.youtube.com/watch?v=unFGJhIvHU4&t=82s&ab_channel=BLearningClub)
+
+- [How to Integrate Django in Jupyter Notebooks & with Pandas](https://www.youtube.com/watch?v=t3mk_u0rprM&t=110s&ab_channel=CodingEntrepreneurs)
+
 Secondary References:
 --------------------
 - [Django 4.1 models](https://docs.djangoproject.com/en/4.1/topics/db/models/)
@@ -76,3 +81,11 @@ if settings.DEBUG:
 ```
 
 [Site on localhost not displaying image](https://stackoverflow.com/questions/12741807/site-on-localhost-not-displaying-image)
+
+- Code:
+
+```
+<img src="{{ hotel.hotel_Main_Img.url }}" class="img-responsive" style="width: 100%; float: left; margin-right: 10px;" />
+```
+
+[Python | Uploading images in Django](https://www.geeksforgeeks.org/python-uploading-images-in-django/)
