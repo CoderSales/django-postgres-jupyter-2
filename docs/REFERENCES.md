@@ -89,3 +89,6 @@ if settings.DEBUG:
 ```
 
 [Python | Uploading images in Django](https://www.geeksforgeeks.org/python-uploading-images-in-django/)
+
+- Starter template [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+- Grid system [Bootstrap](https://getbootstrap.com/docs/4.5/layout/grid/)
