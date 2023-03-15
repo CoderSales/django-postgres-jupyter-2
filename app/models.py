@@ -17,3 +17,19 @@ class User(models.Model):
 
     def __str__(self):
         return self.name
+
+
+class Note(models.Model):
+    notes = models.TextField(max_length=100, blank=True)
+    image = models.ImageField(upload_to="images/", blank=True)
+
+    def __str__(self):
+        return self.notes
+
+
+class Image(models.Model):
+    title = models.CharField(max_length=200)
+    image = models.ImageField(upload_to="images")
+
+    def __str__(self):
+        return self.title

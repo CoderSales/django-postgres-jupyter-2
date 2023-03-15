@@ -1,0 +1,3 @@
+- [completed tutorial django psql](https://youtu.be/unFGJhIvHU4?t=82)
+- [tutorial](https://youtu.be/t3mk_u0rprM?t=110)
+- [psql jupyter](https://youtu.be/CDa1Xz-leQQ?t=8)

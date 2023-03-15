@@ -1,0 +1,3 @@
+- [images](https://djangocentral.com/uploading-images-with-django/)
+- [import MEDIA_ROOT](https://stackoverflow.com/questions/5517950/django-media-url-and-media-root)
+- [display all the images in a folder by using django](https://stackoverflow.com/questions/47809932/how-to-display-all-the-images-in-a-folder-by-using-django#:~:text=you%20can%20use%20file%20methods,your%20template%20using%20template%20tags.)
