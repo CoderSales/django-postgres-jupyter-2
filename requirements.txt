@@ -20,7 +20,7 @@ Django==4.1.13
 executing==1.2.0
 fastjsonschema==2.16.3
 fqdn==1.5.1
-idna==3.4
+idna==3.7
 importlib-metadata==6.0.0
 ipykernel==6.21.3
 ipython==8.11.0
