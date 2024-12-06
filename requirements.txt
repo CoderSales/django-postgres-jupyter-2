@@ -42,7 +42,7 @@ jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.13
 MarkupSafe==2.1.2
 matplotlib-inline==0.1.7
-mistune==2.0.5
+mistune==3.0.2
 mypy-extensions==1.0.0
 nbclassic==0.5.3
 nbclient==0.7.2
