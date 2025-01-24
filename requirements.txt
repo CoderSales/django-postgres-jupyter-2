@@ -8,7 +8,7 @@ attrs==22.2.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
 black==24.8.0
-bleach==6.0.0
+bleach==6.1.0
 cffi==1.15.1
 click==8.1.8
 colorama==0.4.6
