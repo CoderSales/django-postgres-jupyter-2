@@ -23,7 +23,7 @@ fqdn==1.5.1
 idna==3.7
 importlib-metadata==8.5.0
 ipykernel==6.29.5
-ipython==8.11.0
+ipython==8.12.3
 ipython-genutils==0.2.0
 ipywidgets==8.0.4
 isoduration==20.11.0
