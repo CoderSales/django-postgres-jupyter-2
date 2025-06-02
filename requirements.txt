@@ -43,7 +43,7 @@ jupyterlab-widgets==3.0.13
 MarkupSafe==2.1.5
 matplotlib-inline==0.1.7
 mistune==3.0.2
-mypy-extensions==1.0.0
+mypy-extensions==1.1.0
 nbclassic==0.5.3
 nbclient==0.7.2
 nbconvert==7.16.5
