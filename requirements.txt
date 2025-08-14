@@ -45,7 +45,7 @@ matplotlib-inline==0.1.7
 mistune==3.0.2
 mypy-extensions==1.1.0
 nbclassic==0.5.3
-nbclient==0.7.2
+nbclient==0.10.2
 nbconvert==7.16.5
 nbformat==5.7.3
 nest-asyncio==1.5.6
