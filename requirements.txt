@@ -6,7 +6,7 @@ asgiref==3.8.1
 asttokens==3.0.0
 attrs==25.3.0
 backcall==0.2.0
-beautifulsoup4==4.13.4
+beautifulsoup4==4.13.5
 black==24.8.0
 bleach==6.2.0
 cffi==1.17.1
