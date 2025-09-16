@@ -55,7 +55,7 @@ numpy==2.0.2
 packaging==25.0
 pandas==2.0.3
 pandocfilters==1.5.1
-parso==0.8.4
+parso==0.8.5
 pathspec==0.12.1
 pickleshare==0.7.5
 Pillow>=10.0.1
