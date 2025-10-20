@@ -30,7 +30,7 @@ isoduration==20.11.0
 jedi==0.19.2
 Jinja2==3.1.6
 jsonpointer==3.0.0
-jsonschema==4.24.0
+jsonschema==4.25.1
 jupyter==1.1.1
 jupyter-console==6.6.3
 jupyter-events==0.12.0
