@@ -62,7 +62,7 @@ Pillow>=10.0.1
 platformdirs==4.4.0
 prometheus-client==0.22.1
 prompt-toolkit==3.0.52
-psutil==7.1.0
+psutil==7.1.2
 psycopg2==2.9.10
 pure-eval==0.2.2
 pycparser==2.23
