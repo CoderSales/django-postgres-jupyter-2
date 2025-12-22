@@ -21,7 +21,7 @@ executing==2.2.1
 fastjsonschema==2.21.2
 fqdn==1.5.1
 idna==3.11
-importlib-metadata==8.7.0
+importlib-metadata==8.7.1
 ipykernel==6.31.0
 ipython==8.18.1
 ipython-genutils==0.2.0
