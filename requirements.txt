@@ -4,7 +4,7 @@ argon2-cffi-bindings==25.1.0
 arrow==1.4.0
 asgiref==3.11.1
 asttokens==3.0.1
-attrs==25.4.0
+attrs==26.1.0
 backcall==0.2.0
 beautifulsoup4==4.14.3
 black==25.11.0
