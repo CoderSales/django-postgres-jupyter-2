@@ -58,7 +58,7 @@ pandocfilters==1.5.1
 parso==0.8.6
 pathspec==1.0.4
 pickleshare==0.7.5
-Pillow>=10.0.1
+Pillow>=11.3.0
 platformdirs==4.4.0
 prometheus-client==0.25.0
 prompt-toolkit==3.0.52
