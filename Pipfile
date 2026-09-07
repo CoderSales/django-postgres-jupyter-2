@@ -9,7 +9,7 @@ verify_ssl = true
 django = "==6.1.1"
 jupyter = "==1.1.1"
 pandas = "==2.3.3"
-mistune = "==3.3.3"
+mistune = "==3.3.4"
 psycopg2-binary = "==2.9.12"
 pillow = ">=11.3.0"
 
