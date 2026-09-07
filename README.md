@@ -37,6 +37,24 @@ uvx --from pipenv==2026.8.0 pipenv lock &&
 uvx --from pipenv==2026.8.0 pipenv requirements > requirements.txt
 ```
 
+### Manual pip install and freeze
+
+With `.venv` active, install the saved packages:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+After intentional package changes and testing, save a manual snapshot:
+
+```bash
+python -m pip freeze > requirements.txt
+```
+
+These are `pip install` and `pip freeze`, run through the selected Python.
+`freeze` overwrites `requirements.txt` and does not update `Pipfile.lock`.
+Use the Pipfile workflow above to keep this repository's dependency files aligned.
+
 ## Assistance reference
 
 Environment setup, dependency fixes, and documentation were assisted by
