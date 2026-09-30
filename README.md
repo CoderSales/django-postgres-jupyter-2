@@ -63,7 +63,7 @@ Environment setup, dependency fixes, and documentation were assisted by
 ## Earlier tutorial references and setup notes
 
 
-# [django-postgres-jupyter](https://github.com/CoderSales/django-postgres-jupyter/blob/main/README.md)
+# [django-postgres-jupyter](https://github.com/CoderSales/django-postgres-jupyter-2/blob/main/README.md)
 
 Links:
 ------
