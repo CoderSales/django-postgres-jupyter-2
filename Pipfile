@@ -11,7 +11,7 @@ jupyter = "==1.1.1"
 pandas = "==3.0.5"
 mistune = "==3.3.4"
 psycopg2-binary = "==2.9.13"
-pillow = ">=11.3.0"
+pillow = ">=13.0.0"
 
 [requires]
 python_version = "3.14"
